@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_horiz_blue.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_more_horiz_blue.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_phonelink_orange.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_phonelink_orange.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\menu_any_connect_menu.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\menu\\any_connect_menu.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\layout_aida64_layout.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\layout\\aida64_layout.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\layout_rdp_layout.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\layout\\rdp_layout.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\layout_rdp_top_appbar.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\layout\\rdp_top_appbar.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_orange.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_menu_orange.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_close_black.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_workspaces_orange.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_workspaces_orange.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_lock_black.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_lock_black.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\layout_example_layout.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\layout\\example_layout.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_orange.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_add_orange.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cisco_logo_logo.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_cisco_logo_logo.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\layout_any_connect_layout.xml.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\layout\\any_connect_layout.xml"
+    },
+    {
+        "merged": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "V:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

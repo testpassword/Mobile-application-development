@@ -1,0 +1,7 @@
+#Mon Feb 22 10:05:15 MSK 2021
+base.1=V\:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=V\:\\itmo\\3 course\\mobile application development\\lab1-19.02.21\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

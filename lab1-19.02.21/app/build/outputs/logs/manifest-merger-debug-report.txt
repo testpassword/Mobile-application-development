@@ -1,0 +1,197 @@
+-- Merging decision tree log ---
+manifest
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bcbe4e89df520bae7299f672955bc5cd\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6377ce6be66d636e7cfd6a13b8171ae8\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f34d1f4b7ab7000eb6474b38e7fbec91\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c6fa7e22178a383a966d94e13522632f\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1c459244118aaeaf4f4be1aa14a996dd\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\3f59c55dc1e1063f6174ba4594a91bfa\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\74503c0f502bee5a9488a6c9bb801080\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6008c7bd7bcc6b0b11f404c4de3d7402\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\90386a08fe05aaf28af8998594cd92e7\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\ff983da0c58a81b7479b59dbb232198b\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\46d5c471a89a0a0791438c48412a037e\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\d5da9ed94b435b68af268ae53f9486b6\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\fec8165fee9ff27dee5378b7ddc4f7b3\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1cac4b9a9a12374fe9dea58d30e1b434\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\77ad30fcc8f64fce43d65a7cfc418a23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\914404cd06723f198582ec24a27772ef\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7ed8f4dc2f7938e16340b37d2db587c5\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bbe3e8ccc54fa9e7642c5fa38a4a4c85\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\79634f8021f5500474722b9fdd9c2353\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\efa3c639b8be01c4f51727e2585ae5b5\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\2f7cf3054bdbe512a2337f63caf0d644\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a6977ef591f60386c80da4ec5d4b9fd4\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\073d96d1389f955f058213a86d5dc146\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c496a41d305f9428b13cefff129a8a9b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c369545cd2c8e3ad02339aaef544a0fd\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9a3023cf937866c00db4192ab9f02762\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\4487b21717f00ff4ed5619778a3f50a3\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7c71afb79bd9450c84f8ddb046642d14\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9089e6a4595d922170fdee6d66f246b0\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\851936a5dbb91afa6a668d5aa4f6aa64\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f3ba40957c0772e1250eb2af4d6a82de\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\0026f40632867f94fc937b783d90de66\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a37ea0c0cd18db7ca87e0f16e7d0124d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:3:11-42
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:4:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6377ce6be66d636e7cfd6a13b8171ae8\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6377ce6be66d636e7cfd6a13b8171ae8\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f34d1f4b7ab7000eb6474b38e7fbec91\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f34d1f4b7ab7000eb6474b38e7fbec91\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a6977ef591f60386c80da4ec5d4b9fd4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a6977ef591f60386c80da4ec5d4b9fd4\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:9:13-39
+	android:label
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:7:13-45
+	android:roundIcon
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:8:13-58
+	android:icon
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:6:13-47
+	android:allowBackup
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:5:13-39
+	android:theme
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:10:13-44
+activity#com.testpassword.lab1.ExampleActivity
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:11:9-16:20
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:13:17-68
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:27-74
+activity#com.testpassword.lab1.RdpActivity
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:17:9-22:20
+	android:label
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:18:19-52
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:17:19-46
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:19:13-21:29
+activity#com.testpassword.lab1.AnyConnectActivity
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:label
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:24:19-60
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:23:19-53
+activity#com.testpassword.lab1.Aida64Activity
+ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:label
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:30:19-55
+	android:name
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:29:19-49
+uses-sdk
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bcbe4e89df520bae7299f672955bc5cd\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bcbe4e89df520bae7299f672955bc5cd\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6377ce6be66d636e7cfd6a13b8171ae8\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6377ce6be66d636e7cfd6a13b8171ae8\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f34d1f4b7ab7000eb6474b38e7fbec91\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f34d1f4b7ab7000eb6474b38e7fbec91\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c6fa7e22178a383a966d94e13522632f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c6fa7e22178a383a966d94e13522632f\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1c459244118aaeaf4f4be1aa14a996dd\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1c459244118aaeaf4f4be1aa14a996dd\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\3f59c55dc1e1063f6174ba4594a91bfa\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\3f59c55dc1e1063f6174ba4594a91bfa\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\74503c0f502bee5a9488a6c9bb801080\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\74503c0f502bee5a9488a6c9bb801080\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6008c7bd7bcc6b0b11f404c4de3d7402\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\6008c7bd7bcc6b0b11f404c4de3d7402\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\90386a08fe05aaf28af8998594cd92e7\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\90386a08fe05aaf28af8998594cd92e7\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\ff983da0c58a81b7479b59dbb232198b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\ff983da0c58a81b7479b59dbb232198b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\46d5c471a89a0a0791438c48412a037e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\46d5c471a89a0a0791438c48412a037e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\d5da9ed94b435b68af268ae53f9486b6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\d5da9ed94b435b68af268ae53f9486b6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\fec8165fee9ff27dee5378b7ddc4f7b3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\fec8165fee9ff27dee5378b7ddc4f7b3\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1cac4b9a9a12374fe9dea58d30e1b434\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\1cac4b9a9a12374fe9dea58d30e1b434\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\77ad30fcc8f64fce43d65a7cfc418a23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\77ad30fcc8f64fce43d65a7cfc418a23\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\914404cd06723f198582ec24a27772ef\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\914404cd06723f198582ec24a27772ef\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7ed8f4dc2f7938e16340b37d2db587c5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7ed8f4dc2f7938e16340b37d2db587c5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bbe3e8ccc54fa9e7642c5fa38a4a4c85\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\bbe3e8ccc54fa9e7642c5fa38a4a4c85\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\79634f8021f5500474722b9fdd9c2353\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\79634f8021f5500474722b9fdd9c2353\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\efa3c639b8be01c4f51727e2585ae5b5\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\efa3c639b8be01c4f51727e2585ae5b5\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\2f7cf3054bdbe512a2337f63caf0d644\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\2f7cf3054bdbe512a2337f63caf0d644\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a6977ef591f60386c80da4ec5d4b9fd4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a6977ef591f60386c80da4ec5d4b9fd4\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\073d96d1389f955f058213a86d5dc146\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\073d96d1389f955f058213a86d5dc146\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c496a41d305f9428b13cefff129a8a9b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c496a41d305f9428b13cefff129a8a9b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c369545cd2c8e3ad02339aaef544a0fd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\c369545cd2c8e3ad02339aaef544a0fd\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9a3023cf937866c00db4192ab9f02762\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9a3023cf937866c00db4192ab9f02762\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\4487b21717f00ff4ed5619778a3f50a3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\4487b21717f00ff4ed5619778a3f50a3\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7c71afb79bd9450c84f8ddb046642d14\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\7c71afb79bd9450c84f8ddb046642d14\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9089e6a4595d922170fdee6d66f246b0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\9089e6a4595d922170fdee6d66f246b0\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\851936a5dbb91afa6a668d5aa4f6aa64\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\851936a5dbb91afa6a668d5aa4f6aa64\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f3ba40957c0772e1250eb2af4d6a82de\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\f3ba40957c0772e1250eb2af4d6a82de\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\0026f40632867f94fc937b783d90de66\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\0026f40632867f94fc937b783d90de66\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a37ea0c0cd18db7ca87e0f16e7d0124d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\a37ea0c0cd18db7ca87e0f16e7d0124d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		ADDED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+		INJECTED from V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml

@@ -1,0 +1,2 @@
+com/testpassword/lab1/BuildConfig.java
+ com.testpassword.lab1.BuildConfig

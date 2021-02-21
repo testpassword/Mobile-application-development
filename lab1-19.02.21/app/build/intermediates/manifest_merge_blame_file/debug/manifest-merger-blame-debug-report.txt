@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.testpassword.lab1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:4:5-35:19
+12        android:allowBackup="true"
+12-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:5:13-39
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.3.2] C:\Users\pugalol\.gradle\caches\transforms-2\files-2.1\8dc06f0449d124bcd56a3a7c77e35421\core-1.3.2\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:6:13-47
+17        android:label="@string/app_name"
+17-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:7:13-45
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:8:13-58
+19        android:supportsRtl="true"
+19-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:9:13-39
+20        android:testOnly="true"
+21        android:theme="@style/AppTheme" >
+21-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:10:13-44
+22        <activity android:name="com.testpassword.lab1.ExampleActivity" >
+22-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:11:9-16:20
+22-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:11:19-50
+23            <intent-filter>
+23-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:12:13-15:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:13:17-68
+24-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:13:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:17-76
+26-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:17:9-22:20
+30            android:name="com.testpassword.lab1.RdpActivity"
+30-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:17:19-46
+31            android:label="@string/rdp_title" >
+31-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:18:19-52
+32            <intent-filter>
+32-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:19:13-21:29
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:17-76
+33-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:23:9-28:20
+37            android:name="com.testpassword.lab1.AnyConnectActivity"
+37-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:23:19-53
+38            android:label="@string/any_connect_title" >
+38-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:24:19-60
+39            <intent-filter>
+39-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:19:13-21:29
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:17-76
+40-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:29:9-34:20
+44            android:name="com.testpassword.lab1.Aida64Activity"
+44-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:29:19-49
+45            android:label="@string/aida64_title" >
+45-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:30:19-55
+46            <intent-filter>
+46-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:19:13-21:29
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:17-76
+47-->V:\itmo\3 course\mobile application development\lab1-19.02.21\app\src\main\AndroidManifest.xml:14:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>

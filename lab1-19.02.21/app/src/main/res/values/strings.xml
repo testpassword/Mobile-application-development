@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">lab1</string>
+
+    <string name="example1_welcome">войти или зарегистрироваться</string>
+    <string name="example1_instruction">Мы отправим на номер SMS-сообщение с кодом подтверждения</string>
+    <string name="example1_btn">получить код</string>
+    <string name="example1_terms">При входе вы соглашаетесь с <a href="some_link">условиями</a></string>
+
+    <string name="rdp_msg">No PCs</string>
+    <string name="rdp_title">PCs</string>
+    <string name="rdp_workspaces_btn">Workspaces</string>
+
+    <string name="any_connect_title">AnyConnect</string>
+    <string name="any_connect_subtitle">виртуальная частная сеть</string>
+    <string name="any_connect_on">Включено</string>
+    <string name="any_connect_off">Отключено</string>
+    <string name="any_connect_name">VPN AnyConnect</string>
+    <string name="any_connect_diagnostics">Диагностика</string>
+    <string name="any_connect_settings">Настройки</string>
+    <string name="any_connect_about">О программе</string>
+    <string name="any_connect_exit">Выход</string>
+
+    <string name="aida64_title">AIDA64</string>
+    <string-array name="aida64_menu">
+        <item>Настройки</item>
+        <item>Поддержка и обратная связь</item>
+        <item>Сохранить отчёт</item>
+        <item>Отчёт автору</item>
+        <item>Отправить отчёт по email</item>
+        <item>О конфиденциальности</item>
+        <item>Выход</item>
+    </string-array>
+    <string-array name="aida64_sections">
+        <item>Система</item>
+        <item>ЦП</item>
+        <item>Отображение</item>
+        <item>Сеть</item>
+        <item>Батарея</item>
+        <item>Android</item>
+        <item>Устройства</item>
+        <item>Температура</item>
+        <item>Датчики</item>
+        <item>Приложения</item>
+        <item>Кодеки</item>
+        <item>Папки</item>
+        <item>Системные файлы</item>
+        <item>О программе</item>
+    </string-array>
+</resources>

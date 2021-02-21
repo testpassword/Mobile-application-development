@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/any_connect_diagnostics"/>
+    <item android:title="@string/any_connect_settings"/>
+    <item android:title="@string/any_connect_about"/>
+    <item android:title="@string/any_connect_exit"/>
+</menu>
