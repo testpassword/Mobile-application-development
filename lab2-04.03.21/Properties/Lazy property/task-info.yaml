@@ -1,0 +1,72 @@
+type: edu
+custom_name: Lazy property
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 49
+    length: 26
+    placeholder_text: /* TODO */
+    initial_state:
+      length: 10
+      offset: 53
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 'var value: Int? = null'
+  - offset: 93
+    length: 0
+    placeholder_text: TODO()
+    initial_state:
+      length: 6
+      offset: 110
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: |-
+      if (value == null) {
+                      value = initializer()
+                  }
+                  return value!!
+  text: |
+    class LazyProperty(val initializer: () -> Int) {
+        /* TODO */
+        val lazy: Int
+            get() {
+                TODO()
+            }
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |
+    import org.junit.Assert
+    import org.junit.Test
+
+    class TestLazyProperty {
+        @Test(timeout = 1000)
+        fun testLazy() {
+            var initialized = false
+            val lazyProperty = LazyProperty { initialized = true; 42 }
+            Assert.assertFalse("Property shouldn't be initialized before access", initialized)
+            val result: Int = lazyProperty.lazy
+            Assert.assertTrue("Property should be initialized after access", initialized)
+            Assert.assertTrue("Property should be initialized after access", 42 == result)
+        }
+
+        @Test(timeout = 1000)
+        fun initializedOnce() {
+            var initialized = 0
+            val lazyProperty = LazyProperty { initialized++; 42 }
+            lazyProperty.lazy
+            lazyProperty.lazy
+            Assert.assertEquals("Lazy property should be initialized only once", 1, initialized)
+
+        }
+    }
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 04 Mar 2021 23:09:13 UTC
+record: -1

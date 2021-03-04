@@ -1,0 +1,55 @@
+type: edu
+custom_name: Data classes
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 49
+    placeholder_text: class Person
+    initial_state:
+      length: 12
+      offset: 0
+    initialized_from_dependency: false
+    selected: true
+    status: Solved
+    encrypted_possible_answer: 'data class Person(val name: String, val age: Int)'
+  text: |-
+    class Person
+
+    fun getPeople(): List<Person> {
+        return listOf(Person("Alice", 29), Person("Bob", 31))
+    }
+
+    fun comparePeople(): Boolean {
+        val p1 = Person("Alice", 29)
+        val p2 = Person("Alice", 29)
+        return p1 == p2  // should be true
+    }
+  learner_created: false
+- name: test/tests.kt
+  visible: false
+  text: |-
+    import org.junit.Assert
+    import org.junit.Test
+
+    class TestDataClasses {
+        @Test(timeout = 1000)
+        fun testListOfPeople() {
+            Assert.assertEquals("The class Person is implemented incorrectly\n",
+                    "[Person(name=Alice, age=29), Person(name=Bob, age=31)]",
+                    getPeople().toString())
+        }
+
+        @Test(timeout = 1000)
+        fun testComparePeople() {
+            Assert.assertTrue("'comparePeople' function should return true",
+                    comparePeople())
+        }
+    }
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 04 Mar 2021 17:00:09 UTC
+record: -1

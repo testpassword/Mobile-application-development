@@ -1,0 +1,73 @@
+type: edu
+custom_name: Rename on import
+files:
+- name: src/Task.kt
+  visible: true
+  placeholders:
+  - offset: 0
+    length: 73
+    placeholder_text: |-
+      // import kotlin.random.Random
+      // import java.util.Random
+    initial_state:
+      length: 57
+      offset: 0
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: |-
+      import kotlin.random.Random as KRandom
+      import java.util.Random as JRandom
+  - offset: 140
+    length: 21
+    placeholder_text: // KRandom.nextInt(2) +
+    initial_state:
+      length: 23
+      offset: 144
+    initialized_from_dependency: false
+    selected: true
+    status: Unchecked
+    encrypted_possible_answer: KRandom.nextInt(2) +
+  - offset: 179
+    length: 23
+    placeholder_text: // JRandom().nextInt(2) +
+    initial_state:
+      length: 25
+      offset: 210
+    initialized_from_dependency: false
+    selected: false
+    status: Unchecked
+    encrypted_possible_answer: JRandom().nextInt(2) +
+  text: |-
+    // import kotlin.random.Random
+    // import java.util.Random
+
+    fun useDifferentRandomClasses(): String {
+        return "Kotlin random: " +
+                // KRandom.nextInt(2) +
+                " Java random:" +
+                // JRandom().nextInt(2) +
+                "."
+    }
+  learner_created: false
+- name: test/Tests.kt
+  visible: false
+  text: |-
+    import org.junit.Assert
+    import org.junit.Test
+
+    class Test {
+        @Test(timeout = 1000)
+        fun testRandom() {
+            val string = useDifferentRandomClasses()
+            Assert.assertTrue(
+                    "The string should contain random numbers 0 or 1\n$string",
+                    setOf('0', '1').any { it in string })
+        }
+    }
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Thu, 04 Mar 2021 22:09:09 UTC
+record: -1

@@ -6,3 +6,7 @@
 4. Создавать несколько активити файлов не нужно, только layout’ты
 5. Макет создаем в папке `​layout -> new -> layout resource file`
 6. Называть их лучше так: `activity_one`, `activity_two` и т. д.
+
+# Лабораторная 2
+
+Решить задачи https://play.kotlinlang.org/koans/overview. Можно установить плагин, кажется называется EduTools и решать в IntelliJ IDEA. Курс нужно закрыть на 100%.
