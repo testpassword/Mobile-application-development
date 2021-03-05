@@ -4,14 +4,14 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 91
-    length: 42
+  - offset: 82
+    length: 31
     placeholder_text: 1 to null, 2 to null, 3 to null, 4 to null
     initial_state:
       length: 42
       offset: 91
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: 1 to c, 2 to b, 3 to b, 4 to c
   text: |
@@ -48,5 +48,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 09:45:25 UTC
 record: -1

@@ -4,27 +4,27 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 352
-    length: 10
+  - offset: 305
+    length: 53
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 352
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       val tr = TR()
               tr.init()
               children += tr
-  - offset: 437
-    length: 10
+  - offset: 422
+    length: 32
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 437
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: children += TD().apply(init)
   text: |-
@@ -108,5 +108,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 22:51:50 UTC
 record: -1

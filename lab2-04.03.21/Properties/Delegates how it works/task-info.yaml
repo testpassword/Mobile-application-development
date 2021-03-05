@@ -4,24 +4,24 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 302
-    length: 6
+  - offset: 292
+    length: 56
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 302
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: return timeInMillis!!.toDate()
-  - offset: 403
-    length: 6
+  - offset: 437
+    length: 31
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 403
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: timeInMillis = value.toMillis()
   text: |+
@@ -83,5 +83,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 09:37:12 UTC
 record: -1

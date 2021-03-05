@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 75
-    length: 6
+  - offset: 71
+    length: 17
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -48,5 +48,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 09:04:37 UTC
 record: -1

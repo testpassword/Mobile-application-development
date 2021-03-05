@@ -12,7 +12,7 @@ files:
       offset: 193
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: |-
       return customer
                   .orders
@@ -27,7 +27,7 @@ files:
       offset: 393
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: |-
       return customers
                   .flatMap(Customer::getOrderedProducts)
@@ -40,7 +40,7 @@ files:
       offset: 462
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: orders.flatMap(Order::products)
   text: |
     // Find the most expensive product among all the delivered products

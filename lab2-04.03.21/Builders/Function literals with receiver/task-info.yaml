@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 66
-    length: 6
+  - offset: 81
+    length: 0
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -14,14 +14,14 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: this % 2 == 0
-  - offset: 112
-    length: 6
+  - offset: 119
+    length: 19
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 112
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: this % 2 != 0
   text: |
@@ -47,5 +47,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 09:54:05 UTC
 record: -1

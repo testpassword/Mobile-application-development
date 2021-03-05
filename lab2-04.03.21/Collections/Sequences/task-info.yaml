@@ -4,14 +4,14 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 193
-    length: 6
+  - offset: 186
+    length: 122
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 193
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       return customer
@@ -20,28 +20,28 @@ files:
                   .filter(Order::isDelivered)
                   .flatMap { it.products.asSequence() }
                   .maxBy(Product::price)
-  - offset: 393
-    length: 6
+  - offset: 493
+    length: 90
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 393
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       return customers
                   .asSequence()
                   .flatMap(Customer::getOrderedProducts)
                   .count { it == product }
-  - offset: 466
-    length: 6
+  - offset: 640
+    length: 44
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 466
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: orders.flatMap(Order::products).asSequence()
   text: |
@@ -175,5 +175,8 @@ files:
         override fun toString() = name
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 08:59:11 UTC
 record: -1

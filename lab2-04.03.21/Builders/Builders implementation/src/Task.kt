@@ -1,30 +1,26 @@
 open class Tag(val name: String) {
+
     protected val children = mutableListOf<Tag>()
 
-    override fun toString() =
-            "<$name>${children.joinToString("")}</$name>"
+    override fun toString() = "<$name>${children.joinToString("")}</$name>"
 }
 
-fun table(init: TABLE.() -> Unit): TABLE {
-    val table = TABLE()
-    table.init()
-    return table
-}
+fun table(init: TABLE.() -> Unit): TABLE = TABLE().apply { init() }
 
-class TABLE : Tag("table") {
+class TABLE: Tag("table") {
     fun tr(init: TR.() -> Unit) {
-        /* TODO */
+        val tr = TR().apply { init() }
+        children += tr
     }
 }
 
-class TR : Tag("tr") {
-    fun td(init: TD.() -> Unit) {
-        /* TODO */
-    }
+class TR: Tag("tr") {
+    fun td(init: TD.() -> Unit) { children += TD().apply(init) }
 }
 
-class TD : Tag("td")
+class TD: Tag("td")
 
+//<table><tr><td></td><td></td></tr></table>
 fun createTable() =
         table {
             tr {
@@ -35,7 +31,4 @@ fun createTable() =
             }
         }
 
-fun main() {
-    println(createTable())
-    //<table><tr><td></td><td></td></tr></table>
-}
+fun main() = println(createTable())

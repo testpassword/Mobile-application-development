@@ -1,7 +1,7 @@
-fun renderProductTable(): String {
-    return html {
+fun renderProductTable(): String =
+    html {
         table {
-            tr/* TODO */ {
+            tr(getTitleColor()) {
                 td {
                     text("Product")
                 }
@@ -12,11 +12,21 @@ fun renderProductTable(): String {
                     text("Popularity")
                 }
             }
-            val products = getProducts()
-            TODO()
+            getProducts().forEachIndexed { i, el ->
+                tr {
+                    td(getCellColor(i, 0)) {
+                        text(el.description)
+                    }
+                    td(getCellColor(i, 1)) {
+                        text(el.price)
+                    }
+                    td(getCellColor(i, 2)) {
+                        text(el.popularity)
+                    }
+                }
+            }
         }
     }.toString()
-}
 
-fun getTitleColor() = "#b9c9fe"
-fun getCellColor(index: Int, row: Int) = if ((index + row) % 2 == 0) "#dce4ff" else "#eff2ff"
+fun getTitleColor(): String = "#b9c9fe"
+fun getCellColor(index: Int, row: Int): String = if ((index + row) % 2 == 0) "#dce4ff" else "#eff2ff"

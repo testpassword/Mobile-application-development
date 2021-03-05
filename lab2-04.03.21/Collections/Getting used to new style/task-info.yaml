@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 136
-    length: 6
+  - offset: 128
+    length: 16
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -15,7 +15,7 @@ files:
     status: Unchecked
     encrypted_possible_answer: s.length
   - offset: 199
-    length: 21
+    length: 15
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -24,14 +24,14 @@ files:
     selected: false
     status: Unchecked
     encrypted_possible_answer: group.size
-  - offset: 282
-    length: 6
+  - offset: 300
+    length: 0
     placeholder_text: TODO()
     initial_state:
       length: 6
       offset: 285
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: group.size == maximumSizeOfGroup
   text: |
@@ -79,5 +79,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 08:38:41 UTC
 record: -1

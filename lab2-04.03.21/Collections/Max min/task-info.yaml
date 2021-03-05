@@ -12,7 +12,7 @@ files:
       offset: 122
     initialized_from_dependency: false
     selected: false
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: customers.maxBy { it.orders.size }
   - offset: 296
     length: 62
@@ -22,7 +22,7 @@ files:
       offset: 281
     initialized_from_dependency: false
     selected: true
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: |-
       customer.orders
                       .flatMap(Order::products)

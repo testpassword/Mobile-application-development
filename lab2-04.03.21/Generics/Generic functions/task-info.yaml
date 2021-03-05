@@ -5,13 +5,13 @@ files:
   visible: true
   placeholders:
   - offset: 20
-    length: 26
+    length: 228
     placeholder_text: fun partitionTo() = TODO()
     initial_state:
       length: 26
       offset: 20
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
     encrypted_possible_answer: |-
       fun <T, C : MutableCollection<T>> Collection<T>.partitionTo(first: C, second: C, predicate: (T) -> Boolean): Pair<C, C> {
@@ -71,5 +71,8 @@ files:
         }
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 22:54:06 UTC
 record: -1

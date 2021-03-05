@@ -4,8 +4,8 @@ files:
 - name: src/Task.kt
   visible: true
   placeholders:
-  - offset: 116
-    length: 207
+  - offset: 283
+    length: 0
     placeholder_text: TODO()
     initial_state:
       length: 6
@@ -18,7 +18,7 @@ files:
           return customers.fold(allProducts, { orderedByAll, customer ->
               orderedByAll.intersect(customer.getOrderedProducts())
           })
-  - offset: 375
+  - offset: 335
     length: 32
     placeholder_text: TODO()
     initial_state:
@@ -151,9 +151,8 @@ files:
             Tokyo to listOf(asuka)
     ).mapValues { it.value.map { name -> customers[name] } }
   learner_created: false
-status: Unchecked
+status: Solved
 feedback:
-  message: Failed to launch checking. For more information, see <a href="https://www.jetbrains.com/help/education/troubleshooting-guide.html#failed_to_launch_checking">the
-    Troubleshooting Guide</a>
-  time: Thu, 04 Mar 2021 22:45:11 UTC
+  message: Congratulations!
+  time: Fri, 05 Mar 2021 22:41:51 UTC
 record: -1
