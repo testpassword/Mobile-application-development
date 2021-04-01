@@ -12,7 +12,7 @@ files:
       offset: 53
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 'var value: Int? = null'
   - offset: 93
     length: 0
@@ -22,7 +22,7 @@ files:
       offset: 110
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       if (value == null) {
                       value = initializer()

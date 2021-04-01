@@ -12,7 +12,7 @@ files:
       offset: 302
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: return timeInMillis!!.toDate()
   - offset: 437
     length: 31
@@ -22,7 +22,7 @@ files:
       offset: 403
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: timeInMillis = value.toMillis()
   text: |+
     import kotlin.properties.ReadWriteProperty

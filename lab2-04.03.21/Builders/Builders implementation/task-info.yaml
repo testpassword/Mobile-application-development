@@ -12,7 +12,7 @@ files:
       offset: 352
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       val tr = TR()
               tr.init()
@@ -25,7 +25,7 @@ files:
       offset: 437
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: children += TD().apply(init)
   text: |-
     open class Tag(val name: String) {

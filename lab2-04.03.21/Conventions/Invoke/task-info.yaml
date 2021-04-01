@@ -12,7 +12,7 @@ files:
       offset: 123
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       numberOfInvocations++
               return this

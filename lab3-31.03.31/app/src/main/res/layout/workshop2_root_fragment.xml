@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+            android:textSize="21sp"
+            android:text="@string/root_lbl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:id="@+id/rootLbl"/>
+
+    <com.google.android.material.button.MaterialButton
+            app:layout_constraintVertical_bias="0.25"
+            android:text="@string/red_frg_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/addRedBtn"
+            app:layout_constraintTop_toBottomOf="@+id/rootLbl"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/blue_frg_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/addRedBtn"
+            android:id="@+id/addBlueBtn"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/remove_frg_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/addBlueBtn"
+            android:id="@+id/removeBtn"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/replace_frg_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/replaceBtn"
+            app:layout_constraintTop_toBottomOf="@+id/removeBtn"/>
+
+    <FrameLayout
+            android:id="@+id/colorFrgContainer"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            app:layout_constraintTop_toBottomOf="@+id/replaceBtn"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

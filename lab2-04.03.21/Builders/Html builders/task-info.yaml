@@ -65,7 +65,7 @@ files:
       offset: 83
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: (color = getTitleColor())
   - offset: 336
     length: 433
@@ -75,7 +75,7 @@ files:
       offset: 389
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       for ((index, product) in products.withIndex()) {
                       tr {

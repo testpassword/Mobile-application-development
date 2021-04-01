@@ -12,7 +12,7 @@ files:
       offset: 72
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: expr.value
   - offset: 133
     length: 6
@@ -22,7 +22,7 @@ files:
       offset: 101
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: eval(expr.left) + eval(expr.right)
   - offset: 151
     length: 104
@@ -32,7 +32,7 @@ files:
       offset: 119
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: sealed class Expr
   - offset: 205
     length: 50
@@ -42,7 +42,7 @@ files:
       offset: 162
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: Expr()
   - offset: 205
     length: 50
@@ -52,7 +52,7 @@ files:
       offset: 212
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: Expr()
   text: |-
     fun eval(expr: Expr): Int =

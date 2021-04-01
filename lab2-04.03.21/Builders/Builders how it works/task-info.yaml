@@ -12,7 +12,7 @@ files:
       offset: 91
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: 1 to c, 2 to b, 3 to b, 4 to c
   text: |
     import Answer.*

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">workshops</string>
+
+    <string name="workshop2_gate">workshop2</string>
+    <string name="workshop4_gate">workshop4</string>
+
+    <string name="root_lbl">Root fragment</string>
+    <string name="red_frg_btn">add red fragment</string>
+    <string name="blue_frg_btn">add blue fragment</string>
+    <string name="remove_frg_btn">remove last fragment</string>
+    <string name="replace_frg_btn">replace with green fragment</string>
+
+    <string name="show_alert_btn">show alert dialog</string>
+    <string name="show_dialog_btn">show dialog</string>
+    <string name="show_tp_btn">show time picker</string>
+    <string name="show_dp_btn">show date picker</string>
+    <string name="show_bsd_btn">show bottom sheet dialog</string>
+    <string name="alert_title">Alert!!</string>
+    <string name="retry_btn">retry</string>
+    <string name="cancel_btn">cancel</string>
+    <string name="ok_btn">ok</string>
+    <string name="dismiss_dialog">dismiss</string>
+    <string name="tp_snackbar_msg">you choose %1$d:%2$d</string>
+    <string name="dp_snackbar_msg">you choose %1$d/%2$d/%3$d</string>
+    <string name="dialog_frg_lbl">This is DialogFragment!</string>
+</resources>

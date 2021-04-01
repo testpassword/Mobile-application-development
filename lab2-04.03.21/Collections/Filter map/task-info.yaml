@@ -12,7 +12,7 @@ files:
       offset: 106
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.map { it.city }.toSet()
   - offset: 234
     length: 36
@@ -22,7 +22,7 @@ files:
       offset: 223
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.filter { it.city == city }
   text: |
     // Find all the different cities the customers are from

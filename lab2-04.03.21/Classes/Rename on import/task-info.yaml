@@ -14,7 +14,7 @@ files:
       offset: 0
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       import kotlin.random.Random as KRandom
       import java.util.Random as JRandom
@@ -26,7 +26,7 @@ files:
       offset: 144
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: KRandom.nextInt(2) +
   - offset: 179
     length: 23
@@ -36,7 +36,7 @@ files:
       offset: 210
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: JRandom().nextInt(2) +
   text: |-
     // import kotlin.random.Random

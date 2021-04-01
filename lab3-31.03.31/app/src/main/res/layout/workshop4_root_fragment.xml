@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/parentLayout"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <com.google.android.material.button.MaterialButton
+            app:layout_constraintVertical_bias="0.40"
+            android:text="@string/show_alert_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:id="@+id/alertBtn"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/show_dialog_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/dialogBtn"
+            app:layout_constraintTop_toBottomOf="@+id/alertBtn"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/show_tp_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/dialogBtn"
+            android:id="@+id/timePickerBtn"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/show_dp_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/datePickerBtn"
+            app:layout_constraintTop_toBottomOf="@+id/timePickerBtn"/>
+
+    <com.google.android.material.button.MaterialButton
+            android:text="@string/show_bsd_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:id="@+id/bottomSheetBtn"
+            app:layout_constraintTop_toBottomOf="@+id/datePickerBtn"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

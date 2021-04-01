@@ -12,7 +12,7 @@ files:
       offset: 26
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       fun <K, V> buildMap(build: HashMap<K, V>.() -> Unit): Map<K, V> {
           val map = HashMap<K, V>()

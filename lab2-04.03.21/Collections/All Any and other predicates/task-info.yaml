@@ -12,7 +12,7 @@ files:
       offset: 119
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.all { it.city == city }
   - offset: 261
     length: 33
@@ -22,7 +22,7 @@ files:
       offset: 250
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.any { it.city == city }
   - offset: 395
     length: 35
@@ -32,7 +32,7 @@ files:
       offset: 365
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.count { it.city == city }
   - offset: 555
     length: 35
@@ -42,7 +42,7 @@ files:
       offset: 505
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.find { it.city == city }
   text: |
     // Return true if all customers are from a given city

@@ -12,7 +12,7 @@ files:
       offset: 120
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       val allProducts = customers.flatMap { it.getOrderedProducts() }.toSet()
           return customers.fold(allProducts, { orderedByAll, customer ->
@@ -26,7 +26,7 @@ files:
       offset: 189
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: orders.flatMap(Order::products)
   text: |-
     // Return the set of products that were ordered by all customers

@@ -12,7 +12,7 @@ files:
       offset: 116
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.associateBy(Customer::name)
   - offset: 245
     length: 40
@@ -22,7 +22,7 @@ files:
       offset: 231
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.associateWith(Customer::city)
   - offset: 393
     length: 42
@@ -32,7 +32,7 @@ files:
       offset: 353
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.associate { it.name to it.city }
   text: |-
     // Build a map from the customer name to the customer

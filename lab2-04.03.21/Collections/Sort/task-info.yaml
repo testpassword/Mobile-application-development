@@ -12,7 +12,7 @@ files:
       offset: 155
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.sortedByDescending { it.orders.size }
   text: |
     // Return a list of customers, sorted in the descending by number of orders they have made

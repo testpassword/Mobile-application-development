@@ -12,7 +12,7 @@ files:
       offset: 133
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: customers.groupBy { it.city }
   text: |
     // Build a map that stores the customers living in a given city

@@ -12,7 +12,7 @@ files:
       offset: 137
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: s.length
   - offset: 199
     length: 15
@@ -22,7 +22,7 @@ files:
       offset: 213
     initialized_from_dependency: false
     selected: false
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: group.size
   - offset: 300
     length: 0
@@ -32,7 +32,7 @@ files:
       offset: 285
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: group.size == maximumSizeOfGroup
   text: |
     fun doSomethingWithCollection(collection: Collection<String>): Collection<String>? {

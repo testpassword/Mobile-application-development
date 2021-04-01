@@ -12,7 +12,7 @@ files:
       offset: 134
     initialized_from_dependency: false
     selected: true
-    status: Unchecked
+    status: Solved
     encrypted_possible_answer: |-
       customers.filter {
           val (delivered, undelivered) = it.orders.partition { it.isDelivered }

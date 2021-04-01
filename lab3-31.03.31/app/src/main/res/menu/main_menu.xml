@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:title="@string/workshop2_gate"
+            android:id="@+id/workshop2Btn"/>
+    <item
+            android:title="@string/workshop4_gate"
+            android:id="@+id/workshop4Btn"/>
+</menu>
