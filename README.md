@@ -26,4 +26,7 @@
     - Lifecycle of acivity — http://developer.alexanderklimov.ru/android/theory/lifecycle.php 
     - Lifecycle of fragment — http://developer.alexanderklimov.ru/android/theory/fragment-lifecycle.php 
     - Fragment Manager — http://developer.alexanderklimov.ru/android/theory/fragments.php
-    - Dialogs — https://guides.codepath.com/android/using-dialogfragment 
+    - Dialogs — https://guides.codepath.com/android/using-dialogfragment
+4. 
+    1. Обратите внимание, что это задание на следующую неделю. Мы можете сделать его на этой неделе. Тут как вы можете заметить - есть картинки и текст (для них используйте заглушку, с помощью схемы tools) https://developer.android.com/studio/write/tool-attributes#toolssample_resources
+    2. Добавьте новую активити - DetailsActiviy, и в макете activity_details.xml сверстайте макет, используя ConstraintLayout.

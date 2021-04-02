@@ -3,6 +3,7 @@
 
     <string name="workshop2_gate">workshop2</string>
     <string name="workshop4_gate">workshop4</string>
+    <string name="details_act_gate">details activity</string>
 
     <string name="root_lbl">Root fragment</string>
     <string name="red_frg_btn">add red fragment</string>
@@ -23,4 +24,9 @@
     <string name="tp_snackbar_msg">you choose %1$d:%2$d</string>
     <string name="dp_snackbar_msg">you choose %1$d/%2$d/%3$d</string>
     <string name="dialog_frg_lbl">This is DialogFragment!</string>
+
+    <string name="name_lbl">Shanghai</string>
+    <string name="release_lbl">Released:</string>
+    <string name="trailer_btn">version trailer</string>
+    <string name="overview_lbl">Overview</string>
 </resources>
