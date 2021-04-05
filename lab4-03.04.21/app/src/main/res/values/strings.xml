@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Versions</string>
+    <string name="details_act_gate">to details activity</string>
+    <string name="recycler_act_gate">to recycler activity</string>
+
+    <string name="release_lbl">Released:</string>
+    <string name="trailer_btn">version trailer</string>
+    <string name="overview_lbl">Overview</string>
+</resources>

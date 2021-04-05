@@ -6,7 +6,4 @@
     <item
             android:title="@string/workshop4_gate"
             android:id="@+id/workshop4Btn"/>
-    <item
-            android:title="@string/details_act_gate"
-            android:id="@+id/detailsActBtn"/>
 </menu>

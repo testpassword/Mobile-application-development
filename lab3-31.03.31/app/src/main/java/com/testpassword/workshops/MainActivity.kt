@@ -1,6 +1,5 @@
 package com.testpassword.workshops
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
@@ -33,10 +32,6 @@ class MainActivity: AppCompatActivity() {
             }
             R.id.workshop4Btn -> {
                 replaceFragment(W4Root())
-                true
-            }
-            R.id.detailsActBtn -> {
-                startActivity(Intent(this, DetailsActivity::class.java))
                 true
             }
             else -> super.onOptionsItemSelected(item)

@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../:\itmo\3 course\mobile application development\lab4-03.04.21\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Zeppelin ignored files
+/ZeppelinRemoteNotebooks/
