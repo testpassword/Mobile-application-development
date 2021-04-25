@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
-        android:padding="16dp"
+        android:divider="@drawable/empty_tall_devider"
+        android:showDividers="middle"
+        android:padding="12dp"
         android:orientation="vertical"
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
     <EditText
+            android:inputType="text"
             android:id="@+id/titleET"
             android:hint="@string/title_hint"
             android:layout_width="match_parent"

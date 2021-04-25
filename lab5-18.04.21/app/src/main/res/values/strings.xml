@@ -4,4 +4,7 @@
     <string name="description_hint">Description</string>
     <string name="priority_hint">Priority</string>
     <string name="importance_check">Important</string>
+    <string name="save_menu_btn">Save</string>
+    <string name="empty_tasks">Task list is empty</string>
+    <string name="empty_data_msg">Fields must be filled</string>
 </resources>
